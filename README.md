@@ -47,14 +47,14 @@ Bienvenue dans ce repository contenant les travaux pratiques (**TP**) liés à l
 
 ### 🔹 TP4 - Implémentation de PPO
 
-🎯 **Objectif** : Implémenter l’algorithme **Proximal Policy Optimization (PPO)** et entraîner un agent à résoudre le problème **Taxi-v3**.  
+ -🎯 **Objectif** : Implémenter l’algorithme **Proximal Policy Optimization (PPO)** et entraîner un agent à résoudre le problème **Taxi-v3**.  
 
-📁 **Fichier** : `TP4.ipynb`  
+ -📁 **Fichier** : `TP4.ipynb`  
 
-📌 **Résumé** :  
-- 📝 Introduction à l’algorithme **PPO** et son principe de mise à jour par clipping.  
-- ⚙️ **Implémentation et tests** sur l’environnement **Taxi-v3** avec mise à jour de la politique et de la valeur des états.  
-- 📊 **Évaluation des performances** avant et après l'entraînement.  
+ -📌 **Résumé** :  
+   - 📝 Introduction à l’algorithme **PPO** et son principe de mise à jour par clipping.  
+   - ⚙️ **Implémentation et tests** sur l’environnement **Taxi-v3** avec mise à jour de la politique et de la valeur des états.  
+   - 📊 **Évaluation des performances** avant et après l'entraînement.  
 
 
 ---
