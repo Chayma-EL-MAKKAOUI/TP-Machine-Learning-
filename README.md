@@ -27,7 +27,6 @@ Bienvenue dans ce repository contenant les travaux pratiques (**TP**) liés à l
   - 📖 Présentation des concepts fondamentaux.
   - 🏗️ Mise en place d’un environnement d’apprentissage.
   - 🤖 Implémentation d’un premier agent simple.
-- 🔗 [Lire le README du TP1](./TP1/README.md)
 
 ### 🔹 TP2 - Implémentation du Q-Learning
 
@@ -36,7 +35,6 @@ Bienvenue dans ce repository contenant les travaux pratiques (**TP**) liés à l
 - **📌 Résumé** :
   - 📝 Introduction à l’algorithme du Q-Learning.
   - ⚙️ Implémentation et tests sur l'environnement **FrozenLake-v1**.
-- 🔗 [Lire le README du TP2](./TP2/README.md)
 
 ### 🔹 TP3 - Approfondissement et Optimisation
 
@@ -46,7 +44,6 @@ Bienvenue dans ce repository contenant les travaux pratiques (**TP**) liés à l
   - 📈 Comparaison du Q-Learning avec d'autres méthodes d'apprentissage.
   - 🧐 Étude de convergence et impact des hyperparamètres.
   - 🔬 Expérimentations avancées et interprétation des résultats.
-- 🔗 [Lire le README du TP3](./TP3/README.md)
 
 ---
 
