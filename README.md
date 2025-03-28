@@ -1,4 +1,4 @@
-# 🚀 Projet d'Apprentissage par Renforcement
+# 🚀 TPs d'Apprentissage par Renforcement
 
 Bienvenue dans ce repository contenant les travaux pratiques (**TP**) liés à l'apprentissage par renforcement. Chaque TP est organisé dans un dossier dédié avec son propre README pour faciliter la navigation et la compréhension des résultats obtenus.
 
