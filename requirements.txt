@@ -1,1 +1,6 @@
+gymnasium
+matplotlib
+numpy
+random
+traffic_env
 
